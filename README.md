@@ -4,7 +4,7 @@
 **공간정보 개발자를 꿈꾸는 학생입니다.** 
 
 
-<h3 align="center">📚 My Tech Stack 📚</h3>
+<h3 align="center">📚 기술 스택 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
