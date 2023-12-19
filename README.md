@@ -27,7 +27,7 @@ Email: leejun9829@naver.com
 
 ## ⭐️ Interest
 - **Main**: Java, Spring
-- **Humanly**: I like to work out
+- **Humanly**: Exercise
 
 ## ⤵️ Experience
 - 2017.02.08 - 안산공업고등학교 입학 컴퓨터과 전공
