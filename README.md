@@ -38,8 +38,9 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
    <br>
    
-   <img src="https://img.shields.io/badge/MyBatis-3178C6?style=for-the-badge&logo=mybatis&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/MyBatis-3178C6?style=for-the-badge&logo=mybatis&logoColor=white"></a>
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=ajax&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white"></a>
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=ArcGIS&logoColor=white"></a>
   <br>
