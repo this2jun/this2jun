@@ -18,12 +18,12 @@
     <a href="mailto:leejun9829@naver.com">
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
-    <a href="https://open.kakao.com/o/">
+    <!-- <a href="https://open.kakao.com/o/">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk">
     </a>
     <a href="https://www.instagram.com/this._.jun">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a>
+    </a> -->
 
 
 ## 🛠 My Tech Stack <!-- 정리하기 -->
