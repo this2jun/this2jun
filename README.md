@@ -18,12 +18,7 @@
     <a href="mailto:leejun9829@naver.com">
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
-    <!-- <a href="https://open.kakao.com/o/">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk">
-    </a>
-    <a href="https://www.instagram.com/this._.jun">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a> -->
+
 
 
 ## 🛠 My Tech Stack <!-- 정리하기 -->
@@ -37,16 +32,17 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
    <br>
-   
+   <!--
   <img src="https://img.shields.io/badge/MyBatis-3178C6?style=for-the-badge&logo=mybatis&logoColor=white"></a>
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=ajax&logoColor=white"></a>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <br>
+  <br> -->
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <br>
   
   <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white"></a>
