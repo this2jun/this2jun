@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+LeeJun's+GitHub!👋)](https://git.io/typing-svg)
 
 
-  
+  <!--
 ### 👋방문해주셔서 감사합니다 👋
 
   
@@ -48,8 +48,9 @@
   <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white"></a>
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=ArcGIS&logoColor=white"></a>
 <!-- </div> -->
+-->
 
-
+<!--
 ## 👨‍💻 Awards
 - 2023 스마트국토엑스포 공간정보 전국대학생 캡스톤 디자인 경진대회
   (최우수상 - 국토연구원장상)
@@ -62,3 +63,4 @@
 - 2017.02.08 ~ 2020.02.06 - 안산공업고등학교 컴퓨터과 졸업
 - 2020.03.02 ~ 2024.02.16 - 인하공업전문대학 공간정보빅데이터과 졸업
 - 2023.07.03 ~ 2023.12.29 - 전공 SW개발 동아리 개발자 양성과정 수료
+-->
